@@ -23,6 +23,7 @@ public class TestJDK {
 		BufferedReader br = new BufferedReader(new FileReader("E:\\11.txt"));
 		String st = br.readLine();
 		System.out.println(st);
+		System.out.println(st);
 		
 	/*	List<String> words = br.lines().
 				 flatMap(line -> Stream.of(line.split(" "))).
