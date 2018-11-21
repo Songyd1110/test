@@ -11,7 +11,7 @@ import java.util.stream.Stream;
 
 public class TestJDK {
 	public static void main(String[] args) throws IOException {
-		/*
+		/*sdfsfdfsd
 		 * List<String> l = Stream.of("one", "two", "three", "four") .filter(e
 		 * -> e.length() > 3) .peek(e -> System.out.println("Filtered value: " +
 		 * e)) .map(String::toUpperCase) .peek(e -> System.out.println(
